@@ -37,7 +37,7 @@ function Displayrecipe({ rname, rimage }) {
   return (
     <div>
       <div>
-        <img height="100" src={rimage} alt="recipe picture" />
+        <img height="100" src={rimage} alt="recipe" />
         <h5> {rname} ❤️</h5>
       </div>
     </div>
